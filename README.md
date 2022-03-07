@@ -3,6 +3,6 @@ Bidirectional Encoder Representations from Transformers
 
 
 
-## How to use 😲
+## How to see 😲
 
-type '.' on keyboard, for watching on Visual Studio Code !!
+**type '.' on keyboard**, for watching the directory (codes) on Visual Studio Code !!
