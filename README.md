@@ -5,7 +5,7 @@ Bidirectional Encoder Representations from Transformers
 
 ## How to see 😲
 
-**Just type the '.' on your keyboard !!**, 
+**Just type the '.' on your keyboard now!!**, 
 
 ![Inkedkeyb_LI](https://user-images.githubusercontent.com/46081500/157036957-1af65660-cf8d-4f03-891d-4d951d88d861.jpg)
 
