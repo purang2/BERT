@@ -2,4 +2,7 @@
 Bidirectional Encoder Representations from Transformers
 
 
-type '.' for watching on Visual Studio Code !!
+
+## How to use 😲
+
+type '.' on keyboard, for watching on Visual Studio Code !!
