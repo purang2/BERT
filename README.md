@@ -1,6 +1,6 @@
 # BERT
 Bidirectional Encoder Representations from Transformers
-
+[PAPER](https://arxiv.org/abs/1810.04805)
 
 
 ## How to see 😲
