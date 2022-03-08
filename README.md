@@ -1,7 +1,7 @@
 # BERT
 Bidirectional Encoder Representations from Transformers
 
-|  [PAPER (theory)](https://arxiv.org/abs/1810.04805)  |  [Hugging Face (code) ](https://huggingface.co/docs/transformers/model_doc/bert)  |  
+|  [PAPER (theory)](https://arxiv.org/abs/1810.04805)  |  [Hugging Face (engineering) ](https://huggingface.co/docs/transformers/model_doc/bert)  |  
 
 The BERT model was proposed in **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** by Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova. It’s a bidirectional transformer pretrained using a combination of masked language modeling objective and next sentence prediction on a large corpus comprising the Toronto Book Corpus and Wikipedia.
 
