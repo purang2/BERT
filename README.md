@@ -1,7 +1,7 @@
 # BERT
 Bidirectional Encoder Representations from Transformers
 
-[PAPER](https://arxiv.org/abs/1810.04805)  |  [Hugging Face](https://arxiv.org/abs/1810.04805)  |  
+|  [PAPER](https://arxiv.org/abs/1810.04805)  |  [Hugging Face](https://arxiv.org/abs/1810.04805)  |  
 
 
 ## How to see 😲
