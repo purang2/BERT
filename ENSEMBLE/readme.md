@@ -9,8 +9,8 @@
 
 ... (이하는 추후 고려)
 - 5️⃣HanBERT / 4 Ep / k-fold
-
-(blocks: 1️⃣2️⃣3️⃣4️⃣5️⃣)
+- 6️⃣["jason9693/klue-roberta-small-apeach"](https://huggingface.co/jason9693/klue-roberta-small-apeach) / /
+(blocks: 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣8️⃣9️⃣9️⃣🔟)
 
 
 ### References
